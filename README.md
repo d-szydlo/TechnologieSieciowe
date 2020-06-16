@@ -23,7 +23,7 @@ Napisz sprawozdanie zawierające opis zrealizowanych programów, komentarz do pr
 
 ## Lista 4
 1. W symulatorze GNS3 skonfiguruj wirtualną sieć o podanej topologii, tak aby:
-![network](https://octodex.github.com/images/yaktocat.png)
+![network](https://github.com/d-szydlo/TechnologieSieciowe/blob/master/lista4/1.jpg)
 - Wirtualna sieć była połączona z zewnętrzną ('fizyczną') siecią 'Cloud'.
 - Ruter R5 uzyskiwał dynamiczny adres IP z sieci 'Cloud'.
 - Pozostałe urządzenia posiadały statyczne adresy w swoich sieciach.
